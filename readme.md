@@ -39,3 +39,7 @@ The focus of this project was on **learning how to write and organize Terraform 
 ├──── terraform.tf
 ├── README.md
 └── terraform.tfvars
+
+
+
+![Project-diagram](images/Project-design.gif)
