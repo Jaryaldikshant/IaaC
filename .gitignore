@@ -1,0 +1,32 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+terraform.tfstate.d/
+
+# Terraform plan files
+*.tfplan
+
+# Local Terraform configuration
+.terraform/
+.terraform.lock.hcl
+
+# Sensitive files
+*.tfvars
+override.tf
+override.tf.json
+
+# IDE directories
+.idea/
+.vscode/
+
+# Backup files
+*.bak
+*.swp
+
+ssh_key
+ssh_key.pub
+
+terraform.tfstate.1746179224.backup
+
+terraform.tfstate.1746179225.backup
+
