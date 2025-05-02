@@ -26,6 +26,13 @@ The focus of this project was on **learning how to write and organize Terraform 
 
 ---
 
+## Project Diagram : 
+
+![Project-diagram](./images/Project-design.gif)
+
+
+---
+
 ## 📁 Project Structure
 
 ```bash
@@ -42,4 +49,4 @@ The focus of this project was on **learning how to write and organize Terraform 
 
 
 
-![Project-diagram](images/Project-design.gif)
+
